@@ -1,5 +1,5 @@
 Task of the cloudDrove for practice
-- [ ] Mercury
+- [x] Git Push
 - [x] Venus
 - [x] Earth (Orbit/Moon)
 - [x] Mars
